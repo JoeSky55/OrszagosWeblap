@@ -1,7 +1,7 @@
 var menu =
 `<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="https://hu.wikipedia.org/wiki/Nobel-díj">Nobel-díj</a>
+          <a class="navbar-brand" href="https://hu.wikipedia.org/wiki/Jap%C3%A1n">Japán</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -21,7 +21,7 @@ var menu =
             </li>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="etelek.html">Etelek</a>
+            <a class="nav-link" href="etelek.html">Ételek</a>
           </li>
             </ul>
           </div>
