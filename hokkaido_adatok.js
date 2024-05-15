@@ -1,4 +1,4 @@
-var adatok = [
+var hokkaido_adatok = [
     {
         "neve" : "sushi",
         "kep": "etel1.jpg"
