@@ -36,7 +36,7 @@
     background-size: cover;
 }
 #japan_bg{
-    background-image: url(japan_bg_2.jpg);
+    background-image: url(japan_map_2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -50,11 +50,28 @@
     
     text-align: center;
 }
- :hover.card{
-    color: white;
+ .card-header{
+    background-color: white;
  }
 
 #accordion{
     margin-left: 300px;
     margin-right: 300px;
+}
+#focim{
+    font-size:100px;
+    text-align: center;
+}
+#nev{
+    font-size: x-small;
+    text-align: center;
+}
+.szovegek{
+    text-indent: 10px;
+    text-align: left;
+}
+.kiemeles{
+    background-color: white;
+    opacity: 70%;
+    color: black;
 }
