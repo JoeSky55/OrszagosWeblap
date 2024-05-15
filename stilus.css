@@ -7,6 +7,54 @@
     font-style: italic;
     color: gray;
 }
+
 .map_kep{
-    width: 500px;
+    border: solid black 5px;
+    width: 400px;
+    margin-left: 300px;
+}
+#hokkaido_bg{
+    background-image: url(hokkaido_bg_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+#honshu_bg{
+    background-image: url(honshu_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#shikoku_bg{
+    background-image: url(shikoku_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#kyushu_bg{
+    background-image: url(kyushu_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#japan_bg{
+    background-image: url(japan_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ul{
+    background-color: white;
+}
+.card{
+    background-color: black;
+    opacity: 70%;
+    color: white;
+    
+    text-align: center;
+}
+ :hover.card{
+    color: white;
+ }
+
+#accordion{
+    margin-left: 300px;
+    margin-right: 300px;
 }
