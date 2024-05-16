@@ -45,7 +45,6 @@
 }
 .card{
     background-color: black;
-    opacity: 70%;
     color: white;
     
     text-align: center;
@@ -74,4 +73,11 @@
     background-color: white;
     opacity: 70%;
     color: black;
+}
+#varosok_hokkaido{
+    background-color: white;
+    
+}
+.nemzetipark_kepek_hokkaido{
+    width: 400px;
 }
